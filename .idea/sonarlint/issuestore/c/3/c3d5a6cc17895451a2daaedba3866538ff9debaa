@@ -1,0 +1,13 @@
+
+R
+java:S1068#"5Remove this unused "mPlayButtonLayout" private field.(ÖÙ™8Ò—Îê˜.
+W
+java:S1068$"5Remove this unused "mPlayTimeTextView" private field.(ÙÑ‚ÿÿÿÿÿ8Ò—Îê˜.
+I
+java:S1068%",Remove this unused "mHandler" private field.(ĞĞ™ã8Ò—Îê˜.
+H
+java:S1068&",Remove this unused "mSeekBar" private field.(ùËK8Ò—Îê˜.
+P
+java:S1068'".Remove this unused "playButton" private field.(²¨ÑÉûÿÿÿÿ8Ò—Îê˜.
+L
+java:S1068("/Remove this unused "pauseButton" private field.(°–ä™8Ò—Îê˜.
